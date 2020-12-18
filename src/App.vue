@@ -1,15 +1,15 @@
 <template>
-  <div>
-    <Alukard />
+  <div class="container">
+    <Root />
   </div>
 </template>
 
 <script>
-import Alukard from '@/components/Alukard.vue'
+import Root from '@/components/Root.vue'
 
 export default {
   components: {
-    Alukard
+    Root
   }
 }
 </script>
