@@ -1,15 +1,11 @@
 <template>
-  <div class="container">
-    <Root />
+  <div>
+    123
   </div>
 </template>
 
 <script>
-import Root from '@/components/Root.vue'
-
 export default {
-  components: {
-    Root
-  }
+  
 }
 </script>
